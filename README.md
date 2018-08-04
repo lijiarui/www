@@ -1,6 +1,6 @@
 # CHATIE(茶贴)
 
-[![Build Status](https://travis-ci.com/Chatie/www.svg?branch=master)](https://travis-ci.org/Chatie/www)
+[![Build Status](https://travis-ci.com/Chatie/www.svg?branch=master)](https://travis-ci.org/Chatie/www) [![Greenkeeper badge](https://badges.greenkeeper.io/Chatie/www.svg)](https://greenkeeper.io/)
 
 Cloud Botie Manager for [Chatie](https://github.com/chatie/wechaty)
 
